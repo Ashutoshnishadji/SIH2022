@@ -1,0 +1,32 @@
+.studentDetails{
+    border: 2px solid #fca311;
+    padding-top: 10px;
+    margin: 10px auto;
+    width: 95%;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;;
+}
+.rows{
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 4px;
+}
+.group{
+    display: flex;
+
+}
+.group > p{
+    margin-left: 2px;
+}
+.keys{
+    font-weight: bold;
+    margin-right: 2px;
+}
+
+.table{
+    max-width: 95%;
+    margin: 20px auto;
+}

@@ -1,0 +1,51 @@
+.p_mage{
+  height: 80%;
+  width: 80%;
+  border-radius: 50%;
+}
+#ac_info {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+#info_academic {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+#heading {
+  text-align: center;
+}
+#info2 {
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+table {
+  border: black solid;
+  width: 80%;
+  margin: auto;
+}
+td {
+  border: black solid;
+  text-align: center;
+}
+
+#infosection {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#info {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: space-around;
+  align-items: flex-start;
+}

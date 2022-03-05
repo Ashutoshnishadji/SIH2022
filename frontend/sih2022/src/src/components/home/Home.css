@@ -1,0 +1,31 @@
+.home_login{
+    height: fit-content;
+    width: 520px;
+    margin: 0 auto;
+    margin-top: 6rem;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid red;
+}
+
+.homeTop{
+    height: 40px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid blue;
+    padding: 0 1rem;
+    color: #505050;
+    background-color: #37495f;
+}
+
+.homeBottom{
+    padding: 3rem 2rem;
+    box-sizing: border-box;
+    
+    display: grid;
+    gap: 1.3rem;
+    grid-template-columns: 1fr 1fr;
+    
+    /* justify-content: space-evenly; */
+    border: 2px solid green;
+}
