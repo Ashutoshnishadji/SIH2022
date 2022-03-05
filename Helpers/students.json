@@ -1,0 +1,2072 @@
+[
+  {
+    "ID": "2230017388",
+    "NAME": "AARATI",
+    "FNAME": "RAJU VERMA",
+    "MNAME": "SHANTI",
+    "DOB": "24-03-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018321",
+    "NAME": "AARTI SAHU",
+    "FNAME": "KRISHNA KUMAR SAHU",
+    "MNAME": "KIRTI SAHU",
+    "DOB": "06-02-2006",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230017335",
+    "NAME": "ANIL MANDLE",
+    "FNAME": "BAHORAN",
+    "MNAME": "KALABAI",
+    "DOB": "02-04-2004",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018789",
+    "NAME": "ANNPURNA",
+    "FNAME": "SHIV KUMAR",
+    "MNAME": "USHA BAI",
+    "DOB": "22-11-2004",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230117273",
+    "NAME": "ANSHU DEWANGAN",
+    "FNAME": "KEDAR DEWANGAN",
+    "MNAME": "GAYATRI DEWANGAN",
+    "DOB": "22-12-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230016313",
+    "NAME": "ARJUN",
+    "FNAME": "KANWAL SINGH",
+    "MNAME": "RUKHMANI",
+    "DOB": "16-12-2004",
+    "Cat": "ST",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018713",
+    "NAME": "BADAL VERMA",
+    "FNAME": "HIMALAY VERMA",
+    "MNAME": "KHEMIN VERMA",
+    "DOB": "04-06-2003",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018525",
+    "NAME": "BALDEV",
+    "FNAME": "LILAK",
+    "MNAME": "RESHAM",
+    "DOB": "09-01-2005",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018159",
+    "NAME": "BHUPENDRA",
+    "FNAME": "BIRBAL",
+    "MNAME": "TIKAM",
+    "DOB": "15-05-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230024130",
+    "NAME": "BODHPRAKASH",
+    "FNAME": "BHAGAT RAM",
+    "MNAME": "YOGESHWARI",
+    "DOB": "15-10-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230024507",
+    "NAME": "CHANDANI",
+    "FNAME": "RAJU",
+    "MNAME": "SUNITA",
+    "DOB": "14-10-2005",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230016734",
+    "NAME": "CHANDRA KUMAR",
+    "FNAME": "DUKALHARAM",
+    "MNAME": "GANGOTRI",
+    "DOB": "30-03-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230023922",
+    "NAME": "CHANDRAKALA",
+    "FNAME": "TRIBHUVAN",
+    "MNAME": "RAMKUNWAR SAHU",
+    "DOB": "12-12-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230017204",
+    "NAME": "CHANDRANI",
+    "FNAME": "RAJULAL",
+    "MNAME": "NEETA BAI",
+    "DOB": "06-07-2005",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230024220",
+    "NAME": "CHHABIRAM",
+    "FNAME": "AATMARAM",
+    "MNAME": "CHANDRIKA BAI",
+    "DOB": "25-09-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230017734",
+    "NAME": "DAGESHWAR SAHU",
+    "FNAME": "GOPI RAM",
+    "MNAME": "DHANESHWARI",
+    "DOB": "18-04-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230004080",
+    "NAME": "DEEPIKA",
+    "FNAME": "BHAKTU",
+    "MNAME": "LAXMI",
+    "DOB": "14-02-2004",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230017902",
+    "NAME": "DEEPTI",
+    "FNAME": "BHARAT",
+    "MNAME": "CHITREKHA",
+    "DOB": "11-03-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230004081",
+    "NAME": "DEVENDRA",
+    "FNAME": "POKHAN LAL",
+    "MNAME": "DURGA",
+    "DOB": "20-12-2005",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230016416",
+    "NAME": "DHANESHWARI SAHU",
+    "FNAME": "BALDEV SAHU",
+    "MNAME": "DRAUPATI SAHU",
+    "DOB": "17-04-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230017584",
+    "NAME": "DIGENDRA KUMAR SAHU",
+    "FNAME": "HEERA RAM SAHU",
+    "MNAME": "NEERA SAHU",
+    "DOB": "26-01-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230024961",
+    "NAME": "DINISHA",
+    "FNAME": "SHATRUHAN",
+    "MNAME": "SUKHBAI",
+    "DOB": "24-06-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230024923",
+    "NAME": "DIPAK SAHU",
+    "FNAME": "HEERARAM",
+    "MNAME": "MONGARA",
+    "DOB": "30-03-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230117281",
+    "NAME": "DOLLY DEWANGAN",
+    "FNAME": "RAJENDRA KUMAR",
+    "MNAME": "TIJIYA",
+    "DOB": "26-08-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230017923",
+    "NAME": "DURGA",
+    "FNAME": "BHAGCHAND",
+    "MNAME": "JANKI BAI",
+    "DOB": "08-10-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230017121",
+    "NAME": "ESHWAR YADAV",
+    "FNAME": "MUKESH YADAV",
+    "MNAME": "MAMTA YADAV",
+    "DOB": "14-04-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230016613",
+    "NAME": "GAYATRI",
+    "FNAME": "ANUJ",
+    "MNAME": "REENA",
+    "DOB": "19-08-2005",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230024287",
+    "NAME": "GAYATRI",
+    "FNAME": "DOMAR",
+    "MNAME": "BENA",
+    "DOB": "29-09-2003",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230024304",
+    "NAME": "GAYATRI",
+    "FNAME": "HEERA SINGH",
+    "MNAME": "LACHHANI",
+    "DOB": "13-09-2005",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230023575",
+    "NAME": "GHANSHYAM",
+    "FNAME": "REKHU",
+    "MNAME": "NAGESHWARI",
+    "DOB": "09-06-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018127",
+    "NAME": "GOPI VERMA",
+    "FNAME": "GOPAL VERMA",
+    "MNAME": "PARWATI VERMA",
+    "DOB": "19-03-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230024114",
+    "NAME": "GOVIND",
+    "FNAME": "KAILASH",
+    "MNAME": "GAUTAM",
+    "DOB": "27-06-2005",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230017870",
+    "NAME": "GULSHAN",
+    "FNAME": "AASHARAM",
+    "MNAME": "PUSHPA",
+    "DOB": "23-10-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230023863",
+    "NAME": "HANSINI SAHU",
+    "FNAME": "SANDEEP KUMAR SAHU",
+    "MNAME": "GANGOTRI SAHU",
+    "DOB": "10-02-2006",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230017846",
+    "NAME": "HEMA",
+    "FNAME": "RAJARAM",
+    "MNAME": "RUKHAM",
+    "DOB": "14-08-2004",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230004082",
+    "NAME": "HEMANT KUMAR",
+    "FNAME": "MUKUT",
+    "MNAME": "GIRJA",
+    "DOB": "19-07-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230004083",
+    "NAME": "HEMLATA DAHARIYA",
+    "FNAME": "PREMU",
+    "MNAME": "FULKENVRA",
+    "DOB": "11-06-2005",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018300",
+    "NAME": "HINA",
+    "FNAME": "MOHAN",
+    "MNAME": "JANKI",
+    "DOB": "20-03-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230016371",
+    "NAME": "HITESHWARI",
+    "FNAME": "DURGA PRASAD",
+    "MNAME": "PURNIMA",
+    "DOB": "20-09-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230024565",
+    "NAME": "HORILAL DHIWAR",
+    "FNAME": "YEN SINGH DHIWAR",
+    "MNAME": "AGASHIYA DHIWAR",
+    "DOB": "01-06-2003",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230024466",
+    "NAME": "HULEKHA",
+    "FNAME": "HARI RAM",
+    "MNAME": "CHANDRA KALA",
+    "DOB": "01-12-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230017966",
+    "NAME": "ILA",
+    "FNAME": "PRABHU",
+    "MNAME": "MUNIYA",
+    "DOB": "16-01-2003",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230024544",
+    "NAME": "JAGENDRA",
+    "FNAME": "SANTOSH KUMAR",
+    "MNAME": "KALAWATI",
+    "DOB": "07-02-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230023961",
+    "NAME": "JAGRITI VERMA",
+    "FNAME": "BHARAT LAL VERMA",
+    "MNAME": "ANJANI VERMA",
+    "DOB": "25-11-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230017941",
+    "NAME": "JANHVI",
+    "FNAME": "LAKESHWAR",
+    "MNAME": "OMBAI",
+    "DOB": "12-08-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230017694",
+    "NAME": "JAY SAHU",
+    "FNAME": "ASHA RAM SAHU",
+    "MNAME": "RADHA SAHU",
+    "DOB": "22-10-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230023660",
+    "NAME": "JHARNA",
+    "FNAME": "LUKESHWAR",
+    "MNAME": "SANGEETA BAI",
+    "DOB": "20-10-2004",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018352",
+    "NAME": "KAILASH",
+    "FNAME": "NETRAM",
+    "MNAME": "JAGESHWARI",
+    "DOB": "06-07-2005",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230004084",
+    "NAME": "KAJAL",
+    "FNAME": "SAKHRAM",
+    "MNAME": "RAJKUMARI",
+    "DOB": "15-12-2003",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230017885",
+    "NAME": "KAMDEV VERMA",
+    "FNAME": "TIKESHWAR VERMA",
+    "MNAME": "MONGRA VERMA",
+    "DOB": "18-10-2003",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230016298",
+    "NAME": "KARAN",
+    "FNAME": "KAWAL SINGH",
+    "MNAME": "RUKHMANI",
+    "DOB": "16-12-2004",
+    "Cat": "ST",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018034",
+    "NAME": "KARAN SAHU",
+    "FNAME": "KOMAL SAHU",
+    "MNAME": "BAMLESHWARI",
+    "DOB": "31-05-2006",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230004085",
+    "NAME": "KARISHMA",
+    "FNAME": "JAILU RAM",
+    "MNAME": "TRIVENI BAI",
+    "DOB": "02-02-2004",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230016707",
+    "NAME": "KAVITA VERMA",
+    "FNAME": "GAUTAM",
+    "MNAME": "JALESHWARI",
+    "DOB": "20-07-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230023949",
+    "NAME": "KHEMLATA",
+    "FNAME": "KAMAL NARAYAN",
+    "MNAME": "RUMESHWARI",
+    "DOB": "10-01-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018966",
+    "NAME": "KHILESHWAR",
+    "FNAME": "PUSAU",
+    "MNAME": "DEVLA",
+    "DOB": "05-05-2002",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230016398",
+    "NAME": "KHILESHWARI",
+    "FNAME": "BALDEV",
+    "MNAME": "DRAUPATI",
+    "DOB": "10-10-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230016520",
+    "NAME": "KIRAN",
+    "FNAME": "ANUJ",
+    "MNAME": "REENA",
+    "DOB": "08-08-2004",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230017164",
+    "NAME": "KIRITYA VERMA",
+    "FNAME": "JEEVAN VERMA",
+    "MNAME": "TARA VERMA",
+    "DOB": "03-05-2006",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230023609",
+    "NAME": "KISHAN KUMAR GILHARE",
+    "FNAME": "DHANSING GILHARE",
+    "MNAME": "REKHA GILHARE",
+    "DOB": "22-06-2005",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230017137",
+    "NAME": "KOMAL KUAMR",
+    "FNAME": "LEKHRAM",
+    "MNAME": "OMBATI",
+    "DOB": "10-06-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018510",
+    "NAME": "KRISHNA KUMAR",
+    "FNAME": "DOMAR",
+    "MNAME": "HEMKUNWAR",
+    "DOB": "09-02-2006",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018559",
+    "NAME": "KUBER",
+    "FNAME": "JHUMUK SEN",
+    "MNAME": "DAMINI BAI",
+    "DOB": "11-12-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230016327",
+    "NAME": "LAKESHWARI",
+    "FNAME": "SUKHNANDAN",
+    "MNAME": "TIKESHWARI",
+    "DOB": "16-03-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230023777",
+    "NAME": "LAKESHWARI SAHU",
+    "FNAME": "ASHOK KUMAR SAHU",
+    "MNAME": "LEELA SAHU",
+    "DOB": "10-08-2006",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230023973",
+    "NAME": "LAXMI",
+    "FNAME": "LAXMAN",
+    "MNAME": "KUMARI",
+    "DOB": "20-06-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230016637",
+    "NAME": "LOKESH KUMAR YADAV",
+    "FNAME": "UMESH KUMAR YADAV",
+    "MNAME": "SAVITRI YADAV",
+    "DOB": "25-11-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230016270",
+    "NAME": "MANISHA",
+    "FNAME": "RAJARAM",
+    "MNAME": "PREMBATI",
+    "DOB": "11-07-2005",
+    "Cat": "ST",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230016495",
+    "NAME": "MANISHA",
+    "FNAME": "GOVARDHAN",
+    "MNAME": "CHANDRIKA",
+    "DOB": "16-03-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018815",
+    "NAME": "MANISHA YADAV",
+    "FNAME": "KUBER",
+    "MNAME": "HEERA",
+    "DOB": "06-08-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230025184",
+    "NAME": "MANOJ YADAW",
+    "FNAME": "SANTOSH KUMAR",
+    "MNAME": "SOMESHWARI",
+    "DOB": "01-01-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230016889",
+    "NAME": "MOHIT NISHAD",
+    "FNAME": "KANHAIYA NISHAD",
+    "MNAME": "REKHA BAI NISHAD",
+    "DOB": "11-10-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018142",
+    "NAME": "MUSKAN SINHA",
+    "FNAME": "OMPRAKASH SINHA",
+    "MNAME": "DURGA SINHA",
+    "DOB": "26-11-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230023753",
+    "NAME": "NEELAM GHRITLAHRE",
+    "FNAME": "GAIND DAS",
+    "MNAME": "SUSHEELA BAI",
+    "DOB": "05-09-2002",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230023627",
+    "NAME": "NEHA VERMA",
+    "FNAME": "DHANESH KUMAR VERMA",
+    "MNAME": "KUMARI VERMA",
+    "DOB": "25-03-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230017307",
+    "NAME": "NEMICHAND",
+    "FNAME": "PUNARAM",
+    "MNAME": "SONIYA",
+    "DOB": "14-06-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018759",
+    "NAME": "NILAM",
+    "FNAME": "PILARAM",
+    "MNAME": "MALTI",
+    "DOB": "15-06-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230025403",
+    "NAME": "NISHA VERMA",
+    "FNAME": "BHOJRAM",
+    "MNAME": "KAVITA VERMA",
+    "DOB": "22-10-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018737",
+    "NAME": "PANNA LAL",
+    "FNAME": "ISHWAR",
+    "MNAME": "JAYNA",
+    "DOB": "07-10-2005",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230016340",
+    "NAME": "PAYAL",
+    "FNAME": "SUKHI RAM",
+    "MNAME": "GANGA BAI",
+    "DOB": "02-10-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018089",
+    "NAME": "PAYAL",
+    "FNAME": "BHAIYA RAM",
+    "MNAME": "KRISHNA BAI",
+    "DOB": "18-05-2005",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230017607",
+    "NAME": "PILESHWAR",
+    "FNAME": "RAMKUMAR",
+    "MNAME": "SUNITA",
+    "DOB": "06-09-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018680",
+    "NAME": "POSHAN",
+    "FNAME": "BHAGBALI",
+    "MNAME": "CHAMPA BAI",
+    "DOB": "13-03-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230017274",
+    "NAME": "PRAMOD",
+    "FNAME": "BHAGWANI",
+    "MNAME": "RAMAUTIN",
+    "DOB": "03-11-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018996",
+    "NAME": "PRATAP",
+    "FNAME": "DEVADHEEN",
+    "MNAME": "DULARI",
+    "DOB": "05-10-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018175",
+    "NAME": "PREETAM",
+    "FNAME": "OMPRAKASH",
+    "MNAME": "FULWA",
+    "DOB": "20-05-2003",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230004086",
+    "NAME": "PRITI",
+    "FNAME": "JAILURAM",
+    "MNAME": "TRIVENI BAI",
+    "DOB": "20-10-2005",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230016250",
+    "NAME": "PRIYA",
+    "FNAME": "NARAYAN",
+    "MNAME": "NEERA",
+    "DOB": "15-09-2005",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230017253",
+    "NAME": "RAMA",
+    "FNAME": "DADU RAM",
+    "MNAME": "DULARI BAI",
+    "DOB": "11-06-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230016285",
+    "NAME": "RAMESHWARI",
+    "FNAME": "JAGAT RAM",
+    "MNAME": "BHURI BAI",
+    "DOB": "30-03-2004",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230025293",
+    "NAME": "RAMKUMAR",
+    "FNAME": "KRISHNA",
+    "MNAME": "SANTRA",
+    "DOB": "02-09-2001",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230117291",
+    "NAME": "RENUKA",
+    "FNAME": "MANOHAR",
+    "MNAME": "TIKESHWARI",
+    "DOB": "26-03-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230023796",
+    "NAME": "RITU",
+    "FNAME": "SHATRUHAN",
+    "MNAME": "SONIYA",
+    "DOB": "08-07-2005",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230017370",
+    "NAME": "RUKHMANI",
+    "FNAME": "DUKHITRAM",
+    "MNAME": "GULPA",
+    "DOB": "23-02-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018066",
+    "NAME": "SAMEER KUMAR SAHU",
+    "FNAME": "NARENDRA SAHU",
+    "MNAME": "KULESHWARI SAHU",
+    "DOB": "11-11-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230023984",
+    "NAME": "SANDHYA",
+    "FNAME": "JAGDEESH",
+    "MNAME": "SUNEETA",
+    "DOB": "12-04-2005",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018953",
+    "NAME": "SANJAY NISHAD",
+    "FNAME": "SHYAMSUNDER NISHAD",
+    "MNAME": "SHAKUN NISHAD",
+    "DOB": "16-10-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230004298",
+    "NAME": "SHAILENDRI BANJARE",
+    "FNAME": "BISAMBHAR",
+    "MNAME": "PUNNI",
+    "DOB": "21-10-2005",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018930",
+    "NAME": "SHASHIKALA VERMA",
+    "FNAME": "JANIK VERMA",
+    "MNAME": "JHULA VERMA",
+    "DOB": "10-11-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230016356",
+    "NAME": "SHEELA",
+    "FNAME": "MAHESH",
+    "MNAME": "RAMESHWARI",
+    "DOB": "03-01-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230017182",
+    "NAME": "SHIV NARAYAN",
+    "FNAME": "SHYAM LAL",
+    "MNAME": "RUKHMANI",
+    "DOB": "29-10-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018574",
+    "NAME": "SIMRAN",
+    "FNAME": "DINESH",
+    "MNAME": "SARITA",
+    "DOB": "08-12-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018982",
+    "NAME": "SOMNATH",
+    "FNAME": "NAROTTAM",
+    "MNAME": "LALITA",
+    "DOB": "20-11-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230017992",
+    "NAME": "SULEKHA",
+    "FNAME": "SANTOSH",
+    "MNAME": "DHANESHWARI",
+    "DOB": "01-01-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018601",
+    "NAME": "SURAJ KUMAR",
+    "FNAME": "LALIT",
+    "MNAME": "GEETA",
+    "DOB": "01-03-2006",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230017494",
+    "NAME": "TAMESHWARI",
+    "FNAME": "RAJESH KUMAR",
+    "MNAME": "BHARTI",
+    "DOB": "02-11-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018774",
+    "NAME": "TARINI SAHU",
+    "FNAME": "KAMDEV SAHU",
+    "MNAME": "KUMARI",
+    "DOB": "07-10-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230017355",
+    "NAME": "TIKESHWARI",
+    "FNAME": "JHADI RAM",
+    "MNAME": "RAJKUMARI",
+    "DOB": "20-08-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230024397",
+    "NAME": "TIKESHWARI",
+    "FNAME": "CHETAN",
+    "MNAME": "ANITA",
+    "DOB": "25-11-2005",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230023554",
+    "NAME": "TOKESH DHRUW",
+    "FNAME": "BHAGWAN SINGH DHRUW",
+    "MNAME": "SARSWATI DHRUW",
+    "DOB": "09-05-2006",
+    "Cat": "ST",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018542",
+    "NAME": "TOKESH KUMAR VERMA",
+    "FNAME": "PUNAM CHAND VERMA",
+    "MNAME": "TARA VERMA",
+    "DOB": "12-04-2006",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018219",
+    "NAME": "TORAN KUMAR VERMA",
+    "FNAME": "YUGAL KISHOR VREMA",
+    "MNAME": "NEETU VERMA",
+    "DOB": "01-12-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230024155",
+    "NAME": "TRILOK SINGH CHAUHAN",
+    "FNAME": "FALESHWAR SINGH CHAUHAN",
+    "MNAME": "ANJU CHAUHAN",
+    "DOB": "16-10-2005",
+    "Cat": "GEN",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230004087",
+    "NAME": "TRIVENI",
+    "FNAME": "AMARNATH",
+    "MNAME": "LAXMI",
+    "DOB": "26-04-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018017",
+    "NAME": "TULESHWARI",
+    "FNAME": "SANTOSH",
+    "MNAME": "SUMITRA BAI",
+    "DOB": "03-10-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230004088",
+    "NAME": "UMESH KUMAR",
+    "FNAME": "GHANSHYAM",
+    "MNAME": "SARASWATI",
+    "DOB": "21-07-2005",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230004089",
+    "NAME": "UMESH VERMA",
+    "FNAME": "BALDAU RAM",
+    "MNAME": "AHILYA",
+    "DOB": "16-05-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230025214",
+    "NAME": "VANSH KUMAR VERMA",
+    "FNAME": "TAKESHWAR VERMA",
+    "MNAME": "PARVATI VERMA",
+    "DOB": "25-12-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018663",
+    "NAME": "VEDPRAKASH",
+    "FNAME": "PARAS RAM",
+    "MNAME": "RUKHMANI",
+    "DOB": "18-11-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230023594",
+    "NAME": "VIJAY KUMAR",
+    "FNAME": "DILIP DHIWAR",
+    "MNAME": "USHA BAI",
+    "DOB": "30-12-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230025455",
+    "NAME": "VIKESHWARI",
+    "FNAME": "KAMAL",
+    "MNAME": "MAHESHWARI",
+    "DOB": "15-03-2005",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230121451",
+    "NAME": "VIVEK KSHATRIYA",
+    "FNAME": "RAVI KSHATRIYA",
+    "MNAME": "KUNTI KSHATRIYA",
+    "DOB": "23-04-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230024072",
+    "NAME": "YAMINI VERMA",
+    "FNAME": "DHANESHWAR VERMA",
+    "MNAME": "DHANESHWARI VERMA",
+    "DOB": "16-04-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230025123",
+    "NAME": "YAMUNA",
+    "FNAME": "NEELKANTH",
+    "MNAME": "BASANTI BAI",
+    "DOB": "09-10-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230018191",
+    "NAME": "YASHODA",
+    "FNAME": "PREMLAL",
+    "MNAME": "SONKUNWAR",
+    "DOB": "28-04-2005",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230023939",
+    "NAME": "YASHWANT",
+    "FNAME": "ASHOK",
+    "MNAME": "SHYAMA",
+    "DOB": "13-01-2003",
+    "Cat": "SC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230004079",
+    "NAME": "YOGENDRA SINHA",
+    "FNAME": "NARENDRA SINHA",
+    "MNAME": "DURPAT SINHA",
+    "DOB": "08-02-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230024939",
+    "NAME": "YUMATI VERMA",
+    "FNAME": "BHOJ RAM VERMA",
+    "MNAME": "SAROJ VERMA",
+    "DOB": "20-11-2004",
+    "Cat": "OBC",
+    "Group": "HUMANITIES (ARTS)"
+  },
+  {
+    "ID": "2230074827",
+    "NAME": "AKASH KUMAR VERMA",
+    "FNAME": "LALIT KUMAR",
+    "MNAME": "MADHU BAI",
+    "DOB": "10-07-2004",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230023823",
+    "NAME": "AMIT KUMAR",
+    "FNAME": "NOHAR DAS",
+    "MNAME": "ISHWARI BAI",
+    "DOB": "11-02-2006",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230074868",
+    "NAME": "BHANUPRATAP VERMA",
+    "FNAME": "DEVID VERMA",
+    "MNAME": "VIMLA VERMA",
+    "DOB": "27-08-2004",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230023867",
+    "NAME": "BHUMIKA NISHAD",
+    "FNAME": "KULESHWER NISHAD",
+    "MNAME": "KUSUM NISHAD",
+    "DOB": "24-02-2006",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230023883",
+    "NAME": "CHANDRASHI DHIWAR",
+    "FNAME": "DAULAL DHIWAR",
+    "MNAME": "ISHWARI DHIWAR",
+    "DOB": "30-07-2005",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230023900",
+    "NAME": "DAKESHWAR SAHU",
+    "FNAME": "UTTAM KUMAR SAHU",
+    "MNAME": "SANTOSHI SAHU",
+    "DOB": "25-05-2004",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230117277",
+    "NAME": "DAMINI",
+    "FNAME": "SUKDEV",
+    "MNAME": "MONGARA BAI",
+    "DOB": "25-11-2004",
+    "Cat": "SC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230023915",
+    "NAME": "DEVANSHU SAHU",
+    "FNAME": "ITWARIRAM SAHU",
+    "MNAME": "KUNJBATI SAHU",
+    "DOB": "13-02-2005",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230023933",
+    "NAME": "DHANESHWARI",
+    "FNAME": "TUKARAM DHIWAR",
+    "MNAME": "KLINDRI DHIWAR",
+    "DOB": "07-10-2004",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230023948",
+    "NAME": "DHANESHWARI",
+    "FNAME": "SANT RAM",
+    "MNAME": "SUNITA",
+    "DOB": "27-06-2005",
+    "Cat": "SC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230023968",
+    "NAME": "DHANESHWARI VERMA",
+    "FNAME": "SANTOSH VERMA",
+    "MNAME": "MEENA VERMA",
+    "DOB": "09-11-2005",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024006",
+    "NAME": "DIGENDRA VERMA",
+    "FNAME": "NATHURAM VERMA",
+    "MNAME": "NEERA BAI VERMA",
+    "DOB": "07-10-2004",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024034",
+    "NAME": "GHRIT KUMARI",
+    "FNAME": "DASHRATH BRIJALE",
+    "MNAME": "SHILA BRIJALE",
+    "DOB": "23-10-2005",
+    "Cat": "SC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024018",
+    "NAME": "GITESHWARI",
+    "FNAME": "SHYAMRATAN",
+    "MNAME": "MUNNI",
+    "DOB": "05-07-2005",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024063",
+    "NAME": "GRITIKA",
+    "FNAME": "KHIRDAS",
+    "MNAME": "GEETA BAI",
+    "DOB": "30-06-2005",
+    "Cat": "SC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024083",
+    "NAME": "HARICHANDRA",
+    "FNAME": "CHINTA YADAV",
+    "MNAME": "SUNITI",
+    "DOB": "08-09-2005",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024100",
+    "NAME": "JATIN",
+    "FNAME": "SHIV KUMAR VERMA",
+    "MNAME": "BHARTI",
+    "DOB": "08-11-2005",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024123",
+    "NAME": "KARAN KUMAR SAHU",
+    "FNAME": "YASHWANT KUMAR SAHU",
+    "MNAME": "KHILESHWARI SAHU",
+    "DOB": "11-06-2005",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230023852",
+    "NAME": "KU ALKA SAHU",
+    "FNAME": "SANTOSH SAHU",
+    "MNAME": "INDRANI SAHU",
+    "DOB": "07-06-2004",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024846",
+    "NAME": "KU SEEMA SAHU",
+    "FNAME": "PAWAN SAHU",
+    "MNAME": "PURNIMA SAHU",
+    "DOB": "24-11-2004",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024998",
+    "NAME": "KU VIBHA VERMA",
+    "FNAME": "SANTOSH KUMAR VERMA",
+    "MNAME": "ANITA VERMA",
+    "DOB": "17-03-2005",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024139",
+    "NAME": "MAHESHWARI",
+    "FNAME": "SAME LAL",
+    "MNAME": "SAHODRI",
+    "DOB": "22-04-2003",
+    "Cat": "SC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024167",
+    "NAME": "NEETA",
+    "FNAME": "SATDHARI",
+    "MNAME": "PRAMILA",
+    "DOB": "26-05-2005",
+    "Cat": "SC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024182",
+    "NAME": "NEHA DHIWAR",
+    "FNAME": "BHUPENDRA DHIWAR",
+    "MNAME": "LAXMI DHIWAR",
+    "DOB": "24-01-2006",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024200",
+    "NAME": "OMESHWARI",
+    "FNAME": "SAMESHWAR VERMA",
+    "MNAME": "AMRIKA VERMA",
+    "DOB": "20-10-2005",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024219",
+    "NAME": "PAYAL",
+    "FNAME": "HEERA LAL",
+    "MNAME": "LOKESHWARI",
+    "DOB": "05-08-2005",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024250",
+    "NAME": "PAYAL",
+    "FNAME": "MANOJ KUMAR",
+    "MNAME": "TIKESHWARI",
+    "DOB": "30-11-2004",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024293",
+    "NAME": "PINKI",
+    "FNAME": "DEEPAK",
+    "MNAME": "BIMLA",
+    "DOB": "01-04-2005",
+    "Cat": "SC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024404",
+    "NAME": "POOJA",
+    "FNAME": "MOHAN",
+    "MNAME": "MEENA",
+    "DOB": "22-12-2005",
+    "Cat": "SC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024478",
+    "NAME": "POOJA VERMA",
+    "FNAME": "HIMALAY VERMA",
+    "MNAME": "KHEMIN VERMA",
+    "DOB": "20-08-2005",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024543",
+    "NAME": "PRATIMA",
+    "FNAME": "PUSAU",
+    "MNAME": "HEMLATA",
+    "DOB": "31-08-2004",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024600",
+    "NAME": "RAJESHWARI NIRMALKAR",
+    "FNAME": "MOHAN NIRMALKAR",
+    "MNAME": "CHUNIYA NIRMALKAR",
+    "DOB": "08-12-2005",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230027923",
+    "NAME": "RAJKUMAR GHRITLAHRE",
+    "FNAME": "PEETAMBAR GHRITLAHRE",
+    "MNAME": "SUKARO",
+    "DOB": "15-08-2005",
+    "Cat": "SC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024628",
+    "NAME": "ROHAN PATLE",
+    "FNAME": "RAJA RAM PATLE",
+    "MNAME": "SUMAN PATLE",
+    "DOB": "06-07-2006",
+    "Cat": "SC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024653",
+    "NAME": "SAGAR MAHILANG",
+    "FNAME": "RAJKUMAR",
+    "MNAME": "SUKHWANTIN",
+    "DOB": "17-03-2004",
+    "Cat": "SC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024671",
+    "NAME": "SAMIR KUMAR DEWANGAN",
+    "FNAME": "SANTOSH KUMAR DEWANGAN",
+    "MNAME": "DEWANTIN DEWANGAN",
+    "DOB": "11-02-2005",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024702",
+    "NAME": "SANAT KUMAR",
+    "FNAME": "SHYAMRATAN",
+    "MNAME": "GANGA BAI",
+    "DOB": "16-02-2003",
+    "Cat": "SC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024766",
+    "NAME": "SANJANA",
+    "FNAME": "BHARAT",
+    "MNAME": "MANJU",
+    "DOB": "07-06-2005",
+    "Cat": "SC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024787",
+    "NAME": "SANJEET KUMAR GAYAKWAD",
+    "FNAME": "GAIND RAM GAYKWAD",
+    "MNAME": "RUKHMANI GAYAKWAD",
+    "DOB": "08-05-2005",
+    "Cat": "SC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024815",
+    "NAME": "SEEMA DEWANGAN",
+    "FNAME": "BASANT DEWANGAN",
+    "MNAME": "CHITRAREKHA",
+    "DOB": "11-10-2005",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024860",
+    "NAME": "TAKESHWARI VAISHAV",
+    "FNAME": "VISHRAM VAISHAV",
+    "MNAME": "SUMITRA VAISHAV",
+    "DOB": "22-10-2005",
+    "Cat": "GEN",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024884",
+    "NAME": "TIKESHWARI YADAV",
+    "FNAME": "SITARAM YADAW",
+    "MNAME": "DURPATI",
+    "DOB": "23-08-2004",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024908",
+    "NAME": "UTTAM PATLE",
+    "FNAME": "KRIPASANKAR PATLE",
+    "MNAME": "SANTA PATLE",
+    "DOB": "10-03-2006",
+    "Cat": "SC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024927",
+    "NAME": "VANDANA",
+    "FNAME": "RAJKUMAR",
+    "MNAME": "VIDHYA BHARTI",
+    "DOB": "25-05-2005",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024953",
+    "NAME": "VANDANA VERMA",
+    "FNAME": "AJAY VERMA",
+    "MNAME": "TRIVENEE VERMA",
+    "DOB": "07-03-2006",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230024974",
+    "NAME": "VARSHA",
+    "FNAME": "BALDEV",
+    "MNAME": "SOHAGI",
+    "DOB": "20-06-2005",
+    "Cat": "SC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230025038",
+    "NAME": "VIJAY KUMAR",
+    "FNAME": "LATEL YADAV",
+    "MNAME": "URVASHI",
+    "DOB": "17-03-2002",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230025062",
+    "NAME": "VIKAS NASHINE",
+    "FNAME": "KHUBIRAM NASHINE",
+    "MNAME": "GAYATRI NASHINE",
+    "DOB": "03-04-2006",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230025088",
+    "NAME": "VINAY",
+    "FNAME": "HEMSINGH VERMA",
+    "MNAME": "SEEMA",
+    "DOB": "12-01-2006",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230025108",
+    "NAME": "VIRENDRA KUMAR",
+    "FNAME": "NARESH KUMAR",
+    "MNAME": "AGARMATI",
+    "DOB": "04-04-2006",
+    "Cat": "SC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230025137",
+    "NAME": "YAMINI VERMA",
+    "FNAME": "PANCHRAM VERMA",
+    "MNAME": "LILESHWARI",
+    "DOB": "09-10-2005",
+    "Cat": "OBC",
+    "Group": "SCIENCE"
+  },
+  {
+    "ID": "2230018398",
+    "NAME": "AJAY KUMAR",
+    "FNAME": "HEMDAS",
+    "MNAME": "SAFURA",
+    "DOB": "24-09-2005",
+    "Cat": "SC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230076074",
+    "NAME": "AKASH DEWANGAN",
+    "FNAME": "SANTOSH",
+    "MNAME": "LAXMI BAI",
+    "DOB": "27-05-2005",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230076027",
+    "NAME": "ARUN KUMAR DEWANGAN",
+    "FNAME": "DOMAN LAL",
+    "MNAME": "RAMAYAN BAI",
+    "DOB": "18-08-2004",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230075686",
+    "NAME": "BHOJRAM",
+    "FNAME": "LAKHESHWAR",
+    "MNAME": "LILAVATI",
+    "DOB": "28-06-2005",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230075535",
+    "NAME": "BHUPENDRA",
+    "FNAME": "DHANSINGH",
+    "MNAME": "KUNWAR BAI",
+    "DOB": "17-08-2005",
+    "Cat": "SC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230073185",
+    "NAME": "BINDU",
+    "FNAME": "MOHIT",
+    "MNAME": "JANKI",
+    "DOB": "19-09-2004",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230075979",
+    "NAME": "BIRENDRA KUMAR",
+    "FNAME": "TILAK RAM DEWANGAN",
+    "MNAME": "DROPATI BAI",
+    "DOB": "20-12-2004",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230074789",
+    "NAME": "CHANCHAL",
+    "FNAME": "JEETRAM VERMA",
+    "MNAME": "LUKESHWARI VERMA",
+    "DOB": "21-06-2006",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230075566",
+    "NAME": "DEV",
+    "FNAME": "KHILESHWAR",
+    "MNAME": "SONKUNWAR",
+    "DOB": "17-08-2006",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230073667",
+    "NAME": "DEVA NASHINE",
+    "FNAME": "JAYANT KUMAR NASHINE",
+    "MNAME": "KUNTI NASHINE",
+    "DOB": "16-01-2005",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230073511",
+    "NAME": "DEVENDRA PATIL",
+    "FNAME": "BALARAM",
+    "MNAME": "HEMLATA",
+    "DOB": "30-04-2005",
+    "Cat": "SC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230075771",
+    "NAME": "DEVRAJ DHIWAR",
+    "FNAME": "DULARVA DHIWAR",
+    "MNAME": "OM KUMARI DHIWAR",
+    "DOB": "30-06-2005",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230073384",
+    "NAME": "DIGESHWARI",
+    "FNAME": "RAJKUMAR",
+    "MNAME": "KUMARI",
+    "DOB": "26-05-2004",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230072806",
+    "NAME": "DISHA SAVALIYA",
+    "FNAME": "DINESH SAVALIYA",
+    "MNAME": "DURGA SAVALIYA",
+    "DOB": "22-02-2005",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230075461",
+    "NAME": "GEETA",
+    "FNAME": "MOHAN LAL",
+    "MNAME": "ROHINI",
+    "DOB": "20-01-2006",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230073278",
+    "NAME": "GILESHWAR SAHU",
+    "FNAME": "HEERALAL SAHU",
+    "MNAME": "RUKHMANI SAHU",
+    "DOB": "23-07-2005",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230075842",
+    "NAME": "HARISHANKAR VERMA",
+    "FNAME": "AVADHRAM VERMA",
+    "MNAME": "RAMEASHWARI BAI",
+    "DOB": "08-06-2005",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230075270",
+    "NAME": "HIRA LAL",
+    "FNAME": "RAMANUJ",
+    "MNAME": "MAYAWATI",
+    "DOB": "23-10-2005",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230075947",
+    "NAME": "HITESH KUMAR DEWANGAN",
+    "FNAME": "BHARAT LAL DEWANGAN",
+    "MNAME": "PREM BAI",
+    "DOB": "15-08-2005",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230073468",
+    "NAME": "INDRANI",
+    "FNAME": "GANGA RAM",
+    "MNAME": "SAVITRI",
+    "DOB": "12-07-2006",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230075104",
+    "NAME": "KAVERI",
+    "FNAME": "DULRWA",
+    "MNAME": "VIMLA",
+    "DOB": "11-01-2006",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230073350",
+    "NAME": "KISHAN KUMARI",
+    "FNAME": "DINANATH",
+    "MNAME": "PUSHPA BAI",
+    "DOB": "09-09-2005",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230072935",
+    "NAME": "KULDEEP",
+    "FNAME": "SURENDRA BANJARE",
+    "MNAME": "SOHADR BANJARE",
+    "DOB": "13-05-2006",
+    "Cat": "SC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230075363",
+    "NAME": "KUSUM",
+    "FNAME": "DILESH",
+    "MNAME": "MANKI",
+    "DOB": "08-04-2005",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230072742",
+    "NAME": "LAXMI",
+    "FNAME": "DUKALU",
+    "MNAME": "MEENA BAI",
+    "DOB": "22-11-2004",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230075807",
+    "NAME": "LUCKY SAHU",
+    "FNAME": "DEMAN LAL SAHU",
+    "MNAME": "DIGESHWARI SAHU",
+    "DOB": "14-06-2005",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230075232",
+    "NAME": "MAHENDRA",
+    "FNAME": "SANT RAM",
+    "MNAME": "MEENA",
+    "DOB": "21-12-2005",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230075650",
+    "NAME": "MANISH SAHU",
+    "FNAME": "HEMKUMAR",
+    "MNAME": "LALITA SAHU",
+    "DOB": "03-09-2005",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230073433",
+    "NAME": "MEGHRAJ",
+    "FNAME": "SURENDRA",
+    "MNAME": "PUSHPA",
+    "DOB": "07-06-2005",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230073580",
+    "NAME": "MITESH KUMAR",
+    "FNAME": "RUPESH KUMAR VERMA",
+    "MNAME": "RENU VERMA",
+    "DOB": "15-06-2005",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230073612",
+    "NAME": "MONESH NASHINE",
+    "FNAME": "NIRMAL NASHINE",
+    "MNAME": "KRISHNA NASHINE",
+    "DOB": "24-04-2005",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230075399",
+    "NAME": "MONIKA",
+    "FNAME": "DILEEP",
+    "MNAME": "SARSWATI",
+    "DOB": "19-05-2005",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230075427",
+    "NAME": "NANDANI",
+    "FNAME": "GAURISHANKAR",
+    "MNAME": "ITWARA",
+    "DOB": "14-08-2005",
+    "Cat": "SC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230075036",
+    "NAME": "OMPRAKASH",
+    "FNAME": "KUBER SING",
+    "MNAME": "HEERA BAI",
+    "DOB": "14-02-2004",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230075153",
+    "NAME": "PALLAVEE",
+    "FNAME": "LAKHAN LAL",
+    "MNAME": "MANJU",
+    "DOB": "09-12-2005",
+    "Cat": "SC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230025357",
+    "NAME": "PRADIP KUMAR",
+    "FNAME": "MAKHAN DAHARIYA",
+    "MNAME": "AMSAIYA",
+    "DOB": "09-11-2005",
+    "Cat": "SC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230075609",
+    "NAME": "PRAKASH SEN",
+    "FNAME": "CHHAIL SING",
+    "MNAME": "PARMESHWARI",
+    "DOB": "30-06-2005",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230075334",
+    "NAME": "PURNIMA NISHAD",
+    "FNAME": "ASHWANI",
+    "MNAME": "RITU",
+    "DOB": "31-01-2004",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230075882",
+    "NAME": "RAHUL KUMAR DEWANGAN",
+    "FNAME": "LAXMI NARAYAN",
+    "MNAME": "LALITA BAI",
+    "DOB": "19-11-2004",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230076277",
+    "NAME": "RAJESH KUMAR SAHU",
+    "FNAME": "DHANSAY SAHU",
+    "MNAME": "BHUNESHWARI",
+    "DOB": "18-08-2004",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230073322",
+    "NAME": "RAMAVATAR DHIWAR",
+    "FNAME": "KAMDEV DHIWAR",
+    "MNAME": "BRIJ DHIWAR",
+    "DOB": "31-12-2004",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230076230",
+    "NAME": "RITESH YADAV",
+    "FNAME": "DERHA RAM YADAV",
+    "MNAME": "DEVAKI YADAV",
+    "DOB": "30-04-2005",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230073146",
+    "NAME": "SAROJ",
+    "FNAME": "ISHWAR",
+    "MNAME": "LUKWANTIN",
+    "DOB": "21-01-2005",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230075304",
+    "NAME": "SUSHIL KUMAR",
+    "FNAME": "JITENDRA",
+    "MNAME": "MALABAI",
+    "DOB": "30-06-2004",
+    "Cat": "SC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230072883",
+    "NAME": "TAMESHWAR",
+    "FNAME": "JAGNNATH",
+    "MNAME": "DULESHIYA",
+    "DOB": "08-09-2005",
+    "Cat": "ST",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230074902",
+    "NAME": "TARUN KUMAR DEWANGAN",
+    "FNAME": "ASHWANI KUMAR DEWANGAN",
+    "MNAME": "GANGA DEWANGAN",
+    "DOB": "12-08-2005",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230075501",
+    "NAME": "TIKAM DHRUW",
+    "FNAME": "HIRAU DHRUW",
+    "MNAME": "KAMINI",
+    "DOB": "16-02-2006",
+    "Cat": "ST",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230074962",
+    "NAME": "TIKESHWARI",
+    "FNAME": "THAKUR RAM",
+    "MNAME": "DEVKI",
+    "DOB": "25-12-2004",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230076310",
+    "NAME": "TRIVENI SAHU",
+    "FNAME": "RAM JI SAHU",
+    "MNAME": "JAGAUTI BAI SAHU",
+    "DOB": "02-03-2005",
+    "Cat": "OBC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230073237",
+    "NAME": "TUKESHWAR MARKANDE",
+    "FNAME": "ROHIT KUMAR MARKANDE",
+    "MNAME": "REKHA MARKANDE",
+    "DOB": "29-10-2005",
+    "Cat": "SC",
+    "Group": "COMMERCE"
+  },
+  {
+    "ID": "2230072993",
+    "NAME": "VEDPRAKASH MIREE",
+    "FNAME": "GAINDRAM MIREE",
+    "MNAME": "HEMIN MIREE",
+    "DOB": "14-04-2005",
+    "Cat": "SC",
+    "Group": "COMMERCE"
+  }
+]
