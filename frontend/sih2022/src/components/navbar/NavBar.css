@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,700&display=swap");
+
+/* Variables */
+* {
+  padding: 0%;
+  margin: 0%;
+}
+:root {
+  --font-family: "Roboto", sans-serf;
+  --normal-font: 400;
+  --bold-font: 700;
+  --bolder-font: 900;
+  --bg-color: #fcfcfc;
+  --primary-color: #ff7235;
+  --secondary-color: rgb(248, 36, 82);
+  --primary-shadow: #8b8eaf;
+  --secondary-shadow: #a17a69;
+  --bottom-margin: 0.5rem;
+  --bottom-margin-2: 1rem;
+  --line-height: 1.7rem;
+  --transition: 0.3s;
+}
+
+nav {
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px;
+  background-color: var(--bg-color);
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+  display: flex;
+}
+
+.logo-firstname {
+  /* border: solid; */
+  font-size: 15px;
+  padding-top: 12px;
+  color: rgb(22, 22, 22);
+}
+
+.logo-lastname {
+  /* border: solid; */
+  padding-left: 10px;
+  font-size: 20px;
+  padding-top: 12px;
+  color: rgb(216, 11, 11);
+  font-weight: var(--bold-font);
+}
+
+.nav-link {
+  color: var(--primary-color);
+  transition: var(--transition);
+  cursor: pointer;
+}
+
+.nav-link:hover {
+  color: var(--secondary-color);
+  border-bottom: 2px solid var(--secondary-color);
+}
+
+nav ul {
+  display: flex;
+  gap: 1.9rem;
+}
+ul {
+  height: 25px;
+  list-style: none;
+}
+nav ul li {
+  font-weight: var(--bold-font);
+}

@@ -10,30 +10,8 @@ function App() {
     <Router>
       <div className="app">
         <Navbar />
-        <>
-          <div className="container">
-            <div className="row">
-            <div className="col"><Login /></div>
-            <InfoContenor/>
-            <InfoContenor/>
-            <InfoContenor/>
-            </div>
-          </div>
-        </>
-
         <Routes>
           <Route exact path="/" element={<h1>Home page</h1>} />
-          <Route exact path="/sagar" element={<></>} />
-          <Route
-            exact
-            path="/ashu"
-            element={
-              <>
-                <h1>ashu</h1>
-                <Navbar />
-              </>
-            }
-          />
         </Routes>
       </div>
     </Router>
