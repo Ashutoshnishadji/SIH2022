@@ -11,6 +11,11 @@
     /* border: 2px solid blueviolet; */
 }
 
+.homeLoginCart:hover{
+    transform: scale(102%);
+    transition: all cubic-bezier(0.23, 1, 0.320, 1);
+}
+
 .homeLoginCart > p{
     margin: 0;
     padding: 0;

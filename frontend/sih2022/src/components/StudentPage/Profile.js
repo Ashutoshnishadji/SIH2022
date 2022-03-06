@@ -1,6 +1,8 @@
-import { display } from '@mui/system'
+import { border, display } from '@mui/system'
 import React from 'react'
-
+import { Bar , Pie } from 'react-chartjs-2'
+import LineChart from '../../charts/LineChart'
+import Chart from 'chart.js/auto';
 export default function Profile() {
     var indo =  {
         ID: " 2210026132",
@@ -68,6 +70,74 @@ export default function Profile() {
                Contact: 9753318620
            </div>
            </div>
+
+           
+   </div>
+   <div>
+
+    <div>
+        <h1>S Graph</h1>
+   <div className='succeschart_student'>
+<LineChart
+
+labels={["UT1" , "UT2" , "Half yearly" , "UT3" , "UT4" , "Annual" ]} datasets={[
+       {
+             label: "Maths",
+             data: [9 , 8 , 8 , 9 , 7 , 9],
+             backgroundColor: 'Green',
+             borderColor: '#05deb3'
+           },
+           {
+            label: "English",
+            data: [7 , 10 , 8.2 , 6 , 9 , 8.6],
+            backgroundColor: 'red',
+            borderColor: '#05deb3'
+          },
+          {
+            label: "Hindi",
+            data: [8 , 10 , 7.5 , 8.4 , 8.1],
+            backgroundColor: 'blue',
+            borderColor: '#05deb3'
+          },
+          {
+            label: "Science",
+            data: [8 , 10 , 8.8 , 6 , 9],
+            backgroundColor: 'yellow',
+            borderColor: '#05deb3'
+          },
+          {
+            label: "Social Science",
+            data: [5 , 6 , 6.8 , 5.5 , 8 , 7.6],
+            backgroundColor: 'voilet',
+            borderColor: '#05deb3'
+          },
+          {
+            label: "Sanskrit",
+            data: [9 , 10 , 9 , 9.5 , 9.6 , 8.9],
+            backgroundColor: 'pink',
+            borderColor: '#05deb3'
+          },
+    
+]} />
+           </div>
+           <div className='succeschart_student'>
+               
+           <Pie  data={{
+       labels: [ "a1" , "a2" , "a3"],
+       datasets: [{
+           data: [10 , 50 , 5],
+           backgroundColor: [
+               "yellow" ,
+               "green",
+               "Red",
+           ]
+       }]
+   }}  />
+               </div>
+           </div>
+   </div>
+   <div>
+
    </div>
    </>
   )

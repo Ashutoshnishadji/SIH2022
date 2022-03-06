@@ -1,6 +1,5 @@
 import React from "react";
 import "./StudentPage.css";
-import Plot from 'react-plotly.js';
 import Table from "@mui/material/Table";
 import TableBody from "@mui/material/TableBody";
 import TableCell from "@mui/material/TableCell";
@@ -8,6 +7,8 @@ import TableContainer from "@mui/material/TableContainer";
 import TableHead from "@mui/material/TableHead";
 import TableRow from "@mui/material/TableRow";
 import Paper from "@mui/material/Paper";
+// import LineChart from "./LineChart";
+import Profile from "./Profile";
 
 function createData(name, ct1, ct2, halfYearly, ct3, ct4, annual) {
   return { name, ct1, ct2, halfYearly, ct3, ct4, annual };
@@ -54,65 +55,15 @@ function StudentPage() {
     <div>
       {/* Student Details */}
       <div className="studentDetails">
-        <section className="rows">
-          <div className="group">
-            <p className="keys">Name </p>:<p> Sagar Nishad</p>
-          </div>
-          <div className="group">
-            <p className="keys">Roll No </p>:<p> 10142</p>
-          </div>
-          <div className="group">
-            <p className="keys">Class </p>:<p> 10</p>
-          </div>
-        </section>
-        <section className="rows">
-          <div className="group">
-            <p className="keys">Admission No </p>:<p> 24</p>
-          </div>
-          <div className="group">
-            <p className="keys">DOB </p>:<p> 27/02/2002</p>
-          </div>
-        </section>
+      <Profile/>
       </div>
-      {/* ************************************************************************************************ */}
-      <div className="table">
-        <TableContainer component={Paper}>
-          <Table sx={{ minWidth: 650 }} aria-label="simple table">
-            <TableHead>
-              <TableRow>
-                <TableCell>Subjects</TableCell>
-                {titles.map((title) => (
-                  <TableCell align="right">{title}</TableCell>
-                ))}
-              </TableRow>
-            </TableHead>
-            <TableBody>
-              {rows.map((row) => (
-                <TableRow
-                  key={row.name}
-                  sx={{ "&:last-child td, &:last-child th": { border: 0 } }}
-                >
-                  <TableCell component="th" scope="row">
-                    {row.name}
-                  </TableCell>
-                  <TableCell align="right">{row.ct1}</TableCell>
-                  <TableCell align="right">{row.ct2}</TableCell>
-                  <TableCell align="right">{row.halfYearly}</TableCell>
-                  <TableCell align="right">{row.ct3}</TableCell>
-                  <TableCell align="right">{row.ct4}</TableCell>
-                  <TableCell align="right">{row.annual}</TableCell>
-                </TableRow>
-              ))}
-            </TableBody>
-          </Table>
-        </TableContainer>
-      </div>
-      {/* ************************************************************************************************ */}
+  
+      {/* <div className="lineGraph">
+        <LineChart/>
+      </div> */}
 
-      <div className="lineGraph">
-        <Plot data={chartData} layout={chartLayout}/>
-        
-      </div>
+   
+
     </div>
   );
 }

@@ -9,7 +9,7 @@ export default function Studentinfo(props) {
              {props.number}
           </td>
         <td id="profileimage">
-          <img  src={props.profileimg} alt="" />
+          <img className="p1_img" src={props.profileimg} alt="" />
         </td>
         <td>
          <span>{props.name}</span>

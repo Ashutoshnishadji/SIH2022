@@ -3,6 +3,11 @@
   width: 80%;
   border-radius: 50%;
 }
+.p1_img{
+  height: 80%;
+  width: 80%;
+  border-radius: 50%;
+}
 #ac_info {
   display: flex;
   flex-direction: column;
@@ -10,7 +15,7 @@
 }
 #info_academic {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
   align-items: center;
 }
 #heading {
@@ -38,7 +43,7 @@ td {
   margin-top: 50px;
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-evenly;;
   align-items: center;
 }
 
@@ -48,4 +53,8 @@ td {
   gap: 20px;
   justify-content: space-around;
   align-items: flex-start;
+}
+
+.succeschart_student{
+  width: 50%;
 }

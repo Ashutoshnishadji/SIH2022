@@ -6,7 +6,8 @@
     border-radius: 15px;
     display: flex;
     justify-content: space-between;
-    /* align-items: center; */
+    align-items: stretch;
+    flex-direction: column;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;;
 }
 .rows{
@@ -29,4 +30,9 @@
 .table{
     max-width: 95%;
     margin: 20px auto;
+}
+.lineGraph{
+    width: 95%;
+    margin:20 auto;
+    
 }
